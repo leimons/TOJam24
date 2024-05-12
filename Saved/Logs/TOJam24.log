@@ -1394,3 +1394,461 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.12-03.06.32:176][ 83]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms
 [2024.05.12-03.06.32:178][ 83]AssetCheck: New page: Asset Save: SisyMap
 [2024.05.12-03.06.32:178][ 83]LogContentValidation: Display: Validating /Script/Engine.World /Game/JamStuff/SisyMap.SisyMap
+[2024.05.12-03.07.20:181][765]Cmd: DELETE
+[2024.05.12-03.07.20:181][765]Cmd: ACTOR DELETE
+[2024.05.12-03.07.20:184][765]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-03.07.20:184][765]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.12-03.07.20:191][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.05.12-03.07.20:193][765]LogEditorActor: Deleted 2 Actors (0.011 secs)
+[2024.05.12-03.07.39:926][832]LogInterchangeEngine: [Pending] Importing
+[2024.05.12-03.07.39:926][832]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Leigh/Downl...irt2-Unreal-Engine-2/dry-dirt2-height2.png]
+[2024.05.12-03.07.39:926][832]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.05.12-03.07.39:927][832]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Leigh/Downl...irt2-Unreal-Engine-2/dry-dirt2-metalness.png]
+[2024.05.12-03.07.39:927][832]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.05.12-03.07.39:927][832]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Leigh/Downl...irt2-Unreal-Engine-2/dry-dirt2-normal2.png]
+[2024.05.12-03.07.39:927][832]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.05.12-03.07.39:927][832]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Leigh/Downl...irt2-Unreal-Engine-2/dry-dirt2-roughness.png]
+[2024.05.12-03.07.39:927][832]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.05.12-03.07.39:927][832]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Leigh/Downl...irt2-Unreal-Engine-2/dry-dirt2-albedo.png]
+[2024.05.12-03.07.39:927][832]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.05.12-03.07.39:928][832]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Leigh/Downl...irt2-Unreal-Engine-2/dry-dirt2-ao.png]
+[2024.05.12-03.07.39:963][833]LogInterchangeEngine: [Pending] Importing -  (6)
+[2024.05.12-03.07.39:993][833]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2024.05.12-03.07.40:275][833]LogTexture: Display: Building textures: /Game/JamStuff/textures/ground/dry-dirt2-ao.dry-dirt2-ao (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.05.12-03.07.40:282][833]LogTexture: Display: Building textures: /Game/JamStuff/textures/ground/dry-dirt2-metalness.dry-dirt2-metalness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.12-03.07.40:285][833]LogTexture: Display: Building textures: /Game/JamStuff/textures/ground/dry-dirt2-height2.dry-dirt2-height2 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.05.12-03.07.40:285][833]LogTexture: Display: Building textures: /Game/JamStuff/textures/ground/dry-dirt2-roughness.dry-dirt2-roughness (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 276.062484 MB), EncodeSpeed: Fast
+[2024.05.12-03.07.40:303][833]LogTexture: Display: Building textures: /Game/JamStuff/textures/ground/dry-dirt2-albedo.dry-dirt2-albedo (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.12-03.07.40:356][833]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.05.12-03.07.40:358][833]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.05.12-03.07.40:358][833]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.05.12-03.07.40:358][833]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.05.12-03.07.40:358][833]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.05.12-03.07.40:358][833]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.05.12-03.07.40:413][833]LogInterchangeEngine: [Success] Import Done
+[2024.05.12-03.07.40:444][834]LogInterchangeEngine: [Success] Import Done
+[2024.05.12-03.07.40:526][834]LogTexture: Display: Building textures: /Game/JamStuff/textures/ground/dry-dirt2-normal2.dry-dirt2-normal2 (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 426.562488 MB), EncodeSpeed: Fast
+[2024.05.12-03.07.44:242][947]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/JamStuff/textures/ground/ground.ground
+[2024.05.12-03.07.44:244][947]LogMaterial: Warning: [AssetLog] /Engine/Transient.ground: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.05.12-03.07.44:246][947]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.12-03.07.44:246][947]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-03.07.44:377][947]LogMaterial: Warning: [AssetLog] /Engine/Transient.ground: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.05.12-03.07.44:380][947]LogMaterial: Warning: [AssetLog] /Engine/Transient.ground: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2024.05.12-03.07.44:395][947]MaterialEditorStats: Error: [SM6] (Node TextureSample) Texture Sample> Missing input texture
+[2024.05.12-03.07.44:395][947]MaterialEditorStats: Error: [SM6] (Node TextureSample) Texture Sample> Missing input texture
+[2024.05.12-03.07.44:395][947]MaterialEditorStats: Error: [SM6] (Node TextureSample) Texture Sample> Missing input texture
+[2024.05.12-03.07.44:395][947]MaterialEditorStats: Error: [SM6] (Node TextureSample) Texture Sample> Missing input texture
+[2024.05.12-03.07.44:395][947]MaterialEditorStats: Error: [SM6] (Node TextureSample) Texture Sample> Missing input texture
+[2024.05.12-03.07.44:395][947]MaterialEditorStats: Error: [SM6] (Node TextureSample) Texture Sample> Missing input texture
+[2024.05.12-03.07.44:402][947]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.05.12-03.07.44:406][947]LogViewport: Scene viewport resized to 1047x570, mode Windowed.
+[2024.05.12-03.07.45:666][986]LogViewport: Scene viewport resized to 787x386, mode Windowed.
+[2024.05.12-03.07.50:972][301]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.12-03.07.50:972][301]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.12-03.07.50:972][301]MaterialEditorStats: Shader Count: 0
+[2024.05.12-03.07.51:018][303]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.05.12-03.07.51:018][303]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.05.12-03.07.51:018][303]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.12-03.07.51:018][303]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.12-03.07.51:018][303]MaterialEditorStats: Shader Count: 4
+[2024.05.12-03.07.55:233][415]LogDerivedDataCache: C:/Users/Leigh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:56.147 and deleted 20 files with total size 1 MiB and 19 empty folders. Scanned 29549 files in 30936 folders with total size 14367 MiB.
+[2024.05.12-03.07.57:090][523]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.12-03.07.57:090][523]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.12-03.07.57:090][523]MaterialEditorStats: Shader Count: 0
+[2024.05.12-03.07.57:143][525]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.05.12-03.07.57:143][525]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.05.12-03.07.57:143][525]MaterialEditorStats: Texture samplers: 2/16
+[2024.05.12-03.07.57:143][525]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.05.12-03.07.57:143][525]MaterialEditorStats: Shader Count: 4
+[2024.05.12-03.08.02:513][842]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.12-03.08.02:513][842]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.12-03.08.02:513][842]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.12-03.08.02:513][842]MaterialEditorStats: Shader Count: 0
+[2024.05.12-03.08.02:558][844]MaterialEditorStats: Base pass shader: 190 instructions
+[2024.05.12-03.08.02:558][844]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.12-03.08.02:558][844]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.12-03.08.02:558][844]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.12-03.08.02:558][844]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.12-03.08.02:558][844]MaterialEditorStats: Shader Count: 4
+[2024.05.12-03.08.07:083][108]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.12-03.08.07:083][108]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.12-03.08.07:083][108]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.12-03.08.07:083][108]MaterialEditorStats: Shader Count: 0
+[2024.05.12-03.08.07:114][109]LogShaderCompilers: Display: ================================================
+[2024.05.12-03.08.07:114][109]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.12-03.08.07:114][109]LogShaderCompilers: Display: Total job queries 26, among them cache hits 16 (61.54%)
+[2024.05.12-03.08.07:114][109]LogShaderCompilers: Display: Tracking 10 distinct input hashes that result in 10 distinct outputs (100.00%)
+[2024.05.12-03.08.07:114][109]LogShaderCompilers: Display: RAM used: 204.15 KiB of 2.00 GiB budget. Usage: 0.01%
+[2024.05.12-03.08.07:114][109]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.12-03.08.07:114][109]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.05.12-03.08.07:114][109]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.05.12-03.08.07:114][109]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.05.12-03.08.07:114][109]LogShaderCompilers: Display: ================================================
+[2024.05.12-03.08.07:134][110]MaterialEditorStats: Base pass shader: 190 instructions
+[2024.05.12-03.08.07:134][110]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.12-03.08.07:134][110]MaterialEditorStats: Texture samplers: 3/16
+[2024.05.12-03.08.07:134][110]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.05.12-03.08.07:134][110]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.12-03.08.07:134][110]MaterialEditorStats: Shader Count: 4
+[2024.05.12-03.08.08:963][217]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.12-03.08.08:963][217]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.05.12-03.08.08:963][217]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.12-03.08.08:963][217]MaterialEditorStats: Shader Count: 0
+[2024.05.12-03.08.08:997][219]MaterialEditorStats: Base pass shader: 198 instructions
+[2024.05.12-03.08.08:997][219]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.12-03.08.08:997][219]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.12-03.08.08:997][219]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.05.12-03.08.08:997][219]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.12-03.08.08:997][219]MaterialEditorStats: Shader Count: 4
+[2024.05.12-03.08.13:331][470]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.12-03.08.13:331][470]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.05.12-03.08.13:331][470]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.12-03.08.13:331][470]MaterialEditorStats: Shader Count: 0
+[2024.05.12-03.08.13:388][472]MaterialEditorStats: Base pass shader: 198 instructions
+[2024.05.12-03.08.13:388][472]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.12-03.08.13:388][472]MaterialEditorStats: Texture samplers: 4/16
+[2024.05.12-03.08.13:388][472]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.05.12-03.08.13:388][472]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.12-03.08.13:388][472]MaterialEditorStats: Shader Count: 4
+[2024.05.12-03.08.15:820][613]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.12-03.08.15:820][613]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.12-03.08.15:820][613]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.12-03.08.15:820][613]MaterialEditorStats: Shader Count: 0
+[2024.05.12-03.08.15:854][615]MaterialEditorStats: Base pass shader: 201 instructions
+[2024.05.12-03.08.15:854][615]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.12-03.08.15:854][615]MaterialEditorStats: Texture samplers: 5/16
+[2024.05.12-03.08.15:854][615]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.12-03.08.15:854][615]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.12-03.08.15:854][615]MaterialEditorStats: Shader Count: 4
+[2024.05.12-03.08.20:460][884]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.12-03.08.20:460][884]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.12-03.08.20:460][884]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.12-03.08.20:460][884]MaterialEditorStats: Shader Count: 0
+[2024.05.12-03.08.20:517][886]MaterialEditorStats: Base pass shader: 201 instructions
+[2024.05.12-03.08.20:517][886]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.05.12-03.08.20:517][886]MaterialEditorStats: Texture samplers: 5/16
+[2024.05.12-03.08.20:517][886]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.05.12-03.08.20:517][886]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.12-03.08.20:517][886]MaterialEditorStats: Shader Count: 4
+[2024.05.12-03.08.24:359][104]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.12-03.08.24:359][104]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(3)
+[2024.05.12-03.08.24:359][104]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.12-03.08.24:359][104]MaterialEditorStats: Shader Count: 0
+[2024.05.12-03.08.24:389][106]MaterialEditorStats: Base pass shader: 201 instructions
+[2024.05.12-03.08.24:389][106]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2024.05.12-03.08.24:389][106]MaterialEditorStats: Texture samplers: 5/16
+[2024.05.12-03.08.24:389][106]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(3)
+[2024.05.12-03.08.24:389][106]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.12-03.08.24:389][106]MaterialEditorStats: Shader Count: 9
+[2024.05.12-03.08.26:850][249]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.05.12-03.08.27:476][283]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.12-03.08.27:476][283]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(3)
+[2024.05.12-03.08.27:476][283]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.12-03.08.27:477][283]MaterialEditorStats: Shader Count: 0
+[2024.05.12-03.08.27:537][285]MaterialEditorStats: Base pass shader: 201 instructions
+[2024.05.12-03.08.27:537][285]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2024.05.12-03.08.27:537][285]MaterialEditorStats: Texture samplers: 5/16
+[2024.05.12-03.08.27:537][285]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(3)
+[2024.05.12-03.08.27:537][285]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.12-03.08.27:537][285]MaterialEditorStats: Shader Count: 11
+[2024.05.12-03.08.30:103][432]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.12-03.08.30:103][432]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(4)
+[2024.05.12-03.08.30:103][432]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.12-03.08.30:103][432]MaterialEditorStats: Shader Count: 0
+[2024.05.12-03.08.30:148][434]MaterialEditorStats: Base pass shader: 201 instructions
+[2024.05.12-03.08.30:148][434]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2024.05.12-03.08.30:148][434]MaterialEditorStats: Texture samplers: 5/16
+[2024.05.12-03.08.30:148][434]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(4)
+[2024.05.12-03.08.30:148][434]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.12-03.08.30:148][434]MaterialEditorStats: Shader Count: 11
+[2024.05.12-03.08.32:782][585]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.12-03.08.32:782][585]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(4)
+[2024.05.12-03.08.32:782][585]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.12-03.08.32:782][585]MaterialEditorStats: Shader Count: 0
+[2024.05.12-03.08.32:847][587]MaterialEditorStats: Base pass shader: 201 instructions
+[2024.05.12-03.08.32:847][587]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2024.05.12-03.08.32:847][587]MaterialEditorStats: Texture samplers: 5/16
+[2024.05.12-03.08.32:847][587]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(4)
+[2024.05.12-03.08.32:847][587]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.12-03.08.32:847][587]MaterialEditorStats: Shader Count: 11
+[2024.05.12-03.08.33:978][652]MaterialEditorStats: Texture samplers: 0/16
+[2024.05.12-03.08.33:978][652]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(5)
+[2024.05.12-03.08.33:978][652]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.12-03.08.33:978][652]MaterialEditorStats: Shader Count: 0
+[2024.05.12-03.08.34:024][654]MaterialEditorStats: Base pass shader: 208 instructions
+[2024.05.12-03.08.34:026][654]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2024.05.12-03.08.34:026][654]MaterialEditorStats: Texture samplers: 6/16
+[2024.05.12-03.08.34:026][654]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(5)
+[2024.05.12-03.08.34:026][654]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.12-03.08.34:026][654]MaterialEditorStats: Shader Count: 11
+[2024.05.12-03.08.36:358][794]LogMaterialEditor: Saving and Compiling material ground
+[2024.05.12-03.08.36:498][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.05.12-03.08.36:645][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2024.05.12-03.08.36:656][794]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-03.08.36:772][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JamStuff/textures/ground/ground" FILE="../../../../../../Users/Leigh/Documents/Side Projs/TOJam/TOJam24/Content/JamStuff/textures/ground/ground.uasset" SILENT=true
+[2024.05.12-03.08.36:776][794]LogSavePackage: Moving output files for package: /Game/JamStuff/textures/ground/ground
+[2024.05.12-03.08.36:777][794]LogSavePackage: Moving '../../../../../../Users/Leigh/Documents/Side Projs/TOJam/TOJam24/Saved/ground13B8680C4FD0513201C3D4A2F275E247.tmp' to '../../../../../../Users/Leigh/Documents/Side Projs/TOJam/TOJam24/Content/JamStuff/textures/ground/ground.uasset'
+[2024.05.12-03.08.36:789][794]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 262 ms)
+[2024.05.12-03.08.36:791][794]AssetCheck: New page: Asset Save: ground
+[2024.05.12-03.08.36:791][794]LogContentValidation: Display: Validating /Script/Engine.Material /Game/JamStuff/textures/ground/ground.ground
+[2024.05.12-03.08.36:792][794]MaterialEditorStats: Base pass shader: 208 instructions
+[2024.05.12-03.08.36:792][794]MaterialEditorStats: Base pass vertex shader: 165 instructions
+[2024.05.12-03.08.36:792][794]MaterialEditorStats: MaxSampler: 274 instructions
+[2024.05.12-03.08.36:792][794]MaterialEditorStats: Texture samplers: 8/16
+[2024.05.12-03.08.36:792][794]MaterialEditorStats: Texture Lookups (Est.): VS(4), PS(5)
+[2024.05.12-03.08.36:792][794]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.05.12-03.08.36:792][794]MaterialEditorStats: Shader Count: 31
+[2024.05.12-03.08.37:652][835]LogSlate: Window 'ground' being destroyed
+[2024.05.12-03.08.37:659][835]LogSlate: Window 'ground' being destroyed
+[2024.05.12-03.08.37:687][835]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-03.08.37:687][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-03.08.39:773][959]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.12-03.08.39:777][959]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.12-03.08.39:777][959]PIE: New page: PIE session: SisyMap (May 11, 2024, 7:08:39 PM)
+[2024.05.12-03.08.39:777][959]LogPlayLevel: Creating play world package: /Game/JamStuff/UEDPIE_0_SisyMap
+[2024.05.12-03.08.39:782][959]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005398s)
+[2024.05.12-03.08.39:782][959]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JamStuff/SisyMap.SisyMap to /Game/JamStuff/UEDPIE_0_SisyMap.SisyMap (0.005431s)
+[2024.05.12-03.08.39:786][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.05.12-03.08.39:788][959]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.12-03.08.39:788][959]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-03.08.39:788][959]LogAIModule: Creating AISystem for world SisyMap
+[2024.05.12-03.08.39:788][959]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2024.05.12-03.08.39:788][959]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.05.12-03.08.39:788][959]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.12-03.08.39:788][959]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.12-03.08.39:788][959]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.12-03.08.39:788][959]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.12-03.08.39:788][959]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.12-03.08.39:788][959]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.12-03.08.39:788][959]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.12-03.08.39:788][959]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.12-03.08.39:789][959]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.12-03.08.39:789][959]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.12-03.08.39:789][959]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.12-03.08.39:790][959]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.12-03.08.39:871][959]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.12-03.08.39:871][959]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.12-03.08.39:871][959]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.12-03.08.39:871][959]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.12-03.08.39:872][959]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.05.12-03.08.39:872][959]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.05.12-03.08.39:874][959]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.05.12-03.08.39:874][959]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.05.12-03.08.39:874][959]LogInit: FAudioDevice initialized with ID 3.
+[2024.05.12-03.08.39:874][959]LogAudio: Display: Audio Device (ID: 3) registered with world 'SisyMap'.
+[2024.05.12-03.08.39:874][959]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.05.12-03.08.39:877][959]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.12-03.08.39:878][959]LogWorld: Bringing World /Game/JamStuff/UEDPIE_0_SisyMap.SisyMap up for play (max tick rate 60) at 2024.05.11-23.08.39
+[2024.05.12-03.08.39:878][959]LogWorld: Bringing up level for play took: 0.001454
+[2024.05.12-03.08.39:880][959]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2024.05.12-03.08.39:886][959]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.05.12-03.08.39:889][959]PIE: Server logged in
+[2024.05.12-03.08.39:890][959]PIE: Play in editor total start time 0.113 seconds.
+[2024.05.12-03.08.41:278][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-03.08.41:278][ 39]LogWorld: BeginTearingDown for /Game/JamStuff/UEDPIE_0_SisyMap
+[2024.05.12-03.08.41:278][ 39]LogWorld: UWorld::CleanupWorld for SisyMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-03.08.41:280][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-03.08.41:286][ 39]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.12-03.08.41:288][ 39]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-03.08.41:292][ 39]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-03.08.41:292][ 39]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.05.12-03.08.41:292][ 39]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.05.12-03.08.41:295][ 39]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.05.12-03.08.41:304][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.05.12-03.08.41:346][ 40]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2024.05.12-03.08.47:012][377]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.12-03.08.48:261][451]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.12-03.08.49:290][512]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.12-03.08.49:294][512]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.12-03.08.49:294][512]PIE: New page: PIE session: SisyMap (May 11, 2024, 7:08:49 PM)
+[2024.05.12-03.08.49:294][512]LogPlayLevel: Creating play world package: /Game/JamStuff/UEDPIE_0_SisyMap
+[2024.05.12-03.08.49:300][512]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005681s)
+[2024.05.12-03.08.49:300][512]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JamStuff/SisyMap.SisyMap to /Game/JamStuff/UEDPIE_0_SisyMap.SisyMap (0.005711s)
+[2024.05.12-03.08.49:303][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.05.12-03.08.49:304][512]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.12-03.08.49:304][512]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-03.08.49:305][512]LogAIModule: Creating AISystem for world SisyMap
+[2024.05.12-03.08.49:305][512]LogPlayLevel: PIE: World Init took: (0.000688s)
+[2024.05.12-03.08.49:305][512]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.05.12-03.08.49:305][512]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.12-03.08.49:305][512]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.12-03.08.49:305][512]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.12-03.08.49:305][512]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.12-03.08.49:305][512]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.12-03.08.49:305][512]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.12-03.08.49:305][512]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.12-03.08.49:305][512]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.12-03.08.49:305][512]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.12-03.08.49:305][512]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.12-03.08.49:305][512]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.12-03.08.49:306][512]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.12-03.08.49:380][512]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.12-03.08.49:380][512]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.12-03.08.49:380][512]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.12-03.08.49:380][512]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.12-03.08.49:380][512]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.05.12-03.08.49:380][512]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.05.12-03.08.49:383][512]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.05.12-03.08.49:383][512]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.05.12-03.08.49:383][512]LogInit: FAudioDevice initialized with ID 4.
+[2024.05.12-03.08.49:383][512]LogAudio: Display: Audio Device (ID: 4) registered with world 'SisyMap'.
+[2024.05.12-03.08.49:383][512]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.05.12-03.08.49:385][512]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.12-03.08.49:387][512]LogWorld: Bringing World /Game/JamStuff/UEDPIE_0_SisyMap.SisyMap up for play (max tick rate 60) at 2024.05.11-23.08.49
+[2024.05.12-03.08.49:387][512]LogWorld: Bringing up level for play took: 0.001584
+[2024.05.12-03.08.49:388][512]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2024.05.12-03.08.49:391][512]PIE: Server logged in
+[2024.05.12-03.08.49:392][512]PIE: Play in editor total start time 0.098 seconds.
+[2024.05.12-03.08.53:078][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-03.08.53:078][729]LogWorld: BeginTearingDown for /Game/JamStuff/UEDPIE_0_SisyMap
+[2024.05.12-03.08.53:078][729]LogWorld: UWorld::CleanupWorld for SisyMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-03.08.53:080][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-03.08.53:086][729]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.12-03.08.53:089][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-03.08.53:094][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-03.08.53:094][729]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.05.12-03.08.53:096][729]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.05.12-03.08.53:098][729]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.05.12-03.08.53:122][729]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.05.12-03.08.53:166][730]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2024.05.12-03.09.06:849][542]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.12-03.09.12:474][878]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.12-03.09.16:960][203]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.12-03.09.17:831][301]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.12-03.09.17:836][301]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.12-03.09.17:836][301]PIE: New page: PIE session: SisyMap (May 11, 2024, 7:09:17 PM)
+[2024.05.12-03.09.17:857][301]LogPlayLevel: Creating play world package: /Game/JamStuff/UEDPIE_0_SisyMap
+[2024.05.12-03.09.17:862][301]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005445s)
+[2024.05.12-03.09.17:862][301]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JamStuff/SisyMap.SisyMap to /Game/JamStuff/UEDPIE_0_SisyMap.SisyMap (0.005482s)
+[2024.05.12-03.09.17:865][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.05.12-03.09.17:866][301]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.12-03.09.17:866][301]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-03.09.17:866][301]LogAIModule: Creating AISystem for world SisyMap
+[2024.05.12-03.09.17:866][301]LogPlayLevel: PIE: World Init took: (0.000698s)
+[2024.05.12-03.09.17:868][301]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.05.12-03.09.17:868][301]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.12-03.09.17:868][301]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.12-03.09.17:868][301]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.12-03.09.17:868][301]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.12-03.09.17:868][301]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.12-03.09.17:868][301]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.12-03.09.17:868][301]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.12-03.09.17:868][301]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.12-03.09.17:868][301]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.12-03.09.17:868][301]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.12-03.09.17:868][301]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.12-03.09.17:870][301]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.12-03.09.17:942][301]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.12-03.09.17:942][301]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.12-03.09.17:942][301]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.12-03.09.17:942][301]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.12-03.09.17:943][301]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.05.12-03.09.17:943][301]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.05.12-03.09.17:944][301]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.05.12-03.09.17:944][301]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.05.12-03.09.17:944][301]LogInit: FAudioDevice initialized with ID 5.
+[2024.05.12-03.09.17:944][301]LogAudio: Display: Audio Device (ID: 5) registered with world 'SisyMap'.
+[2024.05.12-03.09.17:944][301]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.05.12-03.09.17:946][301]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.12-03.09.17:948][301]LogWorld: Bringing World /Game/JamStuff/UEDPIE_0_SisyMap.SisyMap up for play (max tick rate 0) at 2024.05.11-23.09.17
+[2024.05.12-03.09.17:948][301]LogWorld: Bringing up level for play took: 0.001654
+[2024.05.12-03.09.17:949][301]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2024.05.12-03.09.17:952][301]PIE: Server logged in
+[2024.05.12-03.09.17:953][301]PIE: Play in editor total start time 0.117 seconds.
+[2024.05.12-03.09.22:658][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-03.09.22:658][858]LogWorld: BeginTearingDown for /Game/JamStuff/UEDPIE_0_SisyMap
+[2024.05.12-03.09.22:658][858]LogWorld: UWorld::CleanupWorld for SisyMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-03.09.22:659][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-03.09.22:664][858]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.12-03.09.22:666][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-03.09.22:669][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-03.09.22:670][858]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.05.12-03.09.22:670][858]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.12-03.09.22:671][858]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.05.12-03.09.22:693][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.05.12-03.09.22:730][859]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.05.12-03.09.30:820][788]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.12-03.09.34:239][165]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.05.12-03.09.35:078][262]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.12-03.09.35:083][262]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.12-03.09.35:083][262]PIE: New page: PIE session: SisyMap (May 11, 2024, 7:09:35 PM)
+[2024.05.12-03.09.35:117][262]LogPlayLevel: Creating play world package: /Game/JamStuff/UEDPIE_0_SisyMap
+[2024.05.12-03.09.35:126][262]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009795s)
+[2024.05.12-03.09.35:126][262]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/JamStuff/SisyMap.SisyMap to /Game/JamStuff/UEDPIE_0_SisyMap.SisyMap (0.009861s)
+[2024.05.12-03.09.35:130][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.05.12-03.09.35:131][262]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.12-03.09.35:131][262]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.12-03.09.35:132][262]LogAIModule: Creating AISystem for world SisyMap
+[2024.05.12-03.09.35:132][262]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2024.05.12-03.09.35:132][262]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.05.12-03.09.35:132][262]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.12-03.09.35:132][262]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.12-03.09.35:132][262]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.12-03.09.35:132][262]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.12-03.09.35:132][262]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.12-03.09.35:132][262]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.05.12-03.09.35:132][262]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.12-03.09.35:132][262]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.12-03.09.35:132][262]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.12-03.09.35:132][262]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.12-03.09.35:132][262]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.12-03.09.35:134][262]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.12-03.09.35:214][262]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.12-03.09.35:216][262]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.12-03.09.35:216][262]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.12-03.09.35:216][262]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.12-03.09.35:216][262]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.05.12-03.09.35:216][262]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.05.12-03.09.35:218][262]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.05.12-03.09.35:218][262]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.05.12-03.09.35:218][262]LogInit: FAudioDevice initialized with ID 6.
+[2024.05.12-03.09.35:218][262]LogAudio: Display: Audio Device (ID: 6) registered with world 'SisyMap'.
+[2024.05.12-03.09.35:218][262]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.05.12-03.09.35:221][262]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.12-03.09.35:223][262]LogWorld: Bringing World /Game/JamStuff/UEDPIE_0_SisyMap.SisyMap up for play (max tick rate 0) at 2024.05.11-23.09.35
+[2024.05.12-03.09.35:223][262]LogWorld: Bringing up level for play took: 0.001501
+[2024.05.12-03.09.35:224][262]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2024.05.12-03.09.35:227][262]PIE: Server logged in
+[2024.05.12-03.09.35:227][262]PIE: Play in editor total start time 0.145 seconds.
+[2024.05.12-03.09.39:277][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-03.09.39:278][741]LogWorld: BeginTearingDown for /Game/JamStuff/UEDPIE_0_SisyMap
+[2024.05.12-03.09.39:278][741]LogWorld: UWorld::CleanupWorld for SisyMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.12-03.09.39:278][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-03.09.39:283][741]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.12-03.09.39:284][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.12-03.09.39:289][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.12-03.09.39:290][741]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.05.12-03.09.39:290][741]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.12-03.09.39:291][741]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.05.12-03.09.39:316][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.05.12-03.09.39:356][742]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.05.12-03.09.39:926][807]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.12-03.09.39:976][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JamStuff/SisyMap" FILE="../../../../../../Users/Leigh/Documents/Side Projs/TOJam/TOJam24/Content/JamStuff/SisyMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.12-03.09.39:987][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.05.12-03.09.40:017][807]LogSavePackage: Moving output files for package: /Game/JamStuff/SisyMap
+[2024.05.12-03.09.40:017][807]LogSavePackage: Moving '../../../../../../Users/Leigh/Documents/Side Projs/TOJam/TOJam24/Saved/SisyMapF51158B54A46A574603E1FA92A0363A0.tmp' to '../../../../../../Users/Leigh/Documents/Side Projs/TOJam/TOJam24/Content/JamStuff/SisyMap.umap'
+[2024.05.12-03.09.40:033][807]LogFileHelpers: Saving map 'SisyMap' took 0.058
+[2024.05.12-03.09.40:051][807]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 389 ms)
+[2024.05.12-03.09.40:053][807]AssetCheck: New page: Asset Save: SisyMap
+[2024.05.12-03.09.40:053][807]LogContentValidation: Display: Validating /Script/Engine.World /Game/JamStuff/SisyMap.SisyMap
