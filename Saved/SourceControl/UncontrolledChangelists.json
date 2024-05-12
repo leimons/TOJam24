@@ -6,8 +6,16 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Leigh/Documents/Side Projs/TOJam/TOJam24/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/Leigh/Documents/Side Projs/TOJam/TOJam24/Content/JamStuff/Worldworld.umap",
-				"C:/Users/Leigh/Documents/Side Projs/TOJam/TOJam24/Content/JamStuff/SisyMap.umap"
+				"C:/Users/Leigh/Documents/Side Projs/TOJam/TOJam24/Content/JamStuff/SisyMap.umap",
+				"C:/Users/Leigh/Documents/Side Projs/TOJam/TOJam24/Content/JamStuff/textures/rock/drock.uasset",
+				"C:/Users/Leigh/Documents/Side Projs/TOJam/TOJam24/Content/JamStuff/textures/rock/dry-dirt1-albedo.uasset",
+				"C:/Users/Leigh/Documents/Side Projs/TOJam/TOJam24/Content/JamStuff/textures/rock/dry-dirt1-ao.uasset",
+				"C:/Users/Leigh/Documents/Side Projs/TOJam/TOJam24/Content/JamStuff/textures/rock/dry-dirt1-height2.uasset",
+				"C:/Users/Leigh/Documents/Side Projs/TOJam/TOJam24/Content/JamStuff/textures/rock/dry-dirt1-metalness.uasset",
+				"C:/Users/Leigh/Documents/Side Projs/TOJam/TOJam24/Content/JamStuff/textures/rock/dry-dirt1-normal2.uasset",
+				"C:/Users/Leigh/Documents/Side Projs/TOJam/TOJam24/Content/JamStuff/textures/rock/dry-dirt1-roughness.uasset",
+				"C:/Users/Leigh/Documents/Side Projs/TOJam/TOJam24/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Leigh/Documents/Side Projs/TOJam/TOJam24/Content/JamStuff/Worldworld.umap"
 			]
 		}
 	]
